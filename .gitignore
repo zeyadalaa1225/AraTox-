@@ -1,0 +1,12 @@
+﻿
+models/
+*.pt
+*.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+.vscode/
+full_uni_cbow_300_twitter/
